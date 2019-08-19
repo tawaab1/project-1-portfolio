@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This blog post is for Software Engineering 2019. It contains a Weekly Diary (summary) of what the team and I and what we did each week. It also contains an overview of what AGILE elements I used during each "sprint" of the software engineering assignment. 
+This blog post is for Project 1 Mobile Development. It contains a Weekly Diary (summary) of what I did each week as a solo developer. It also contains an overview of what AGILE elements I used during each "sprint" of the mobile development assignment, how I showed professionalism towards the client and how I showed professionalism towards my peers. 
 
 Code evidence has also been uploaded to provide evidence of the work I have done on the back-end of the project.
