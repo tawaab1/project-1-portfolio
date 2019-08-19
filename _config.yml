@@ -17,7 +17,7 @@ title: Project 1 Mobile Development
 email: tawaab1@student.op.ac.nz
 description: >- # this means to ignore newlines until "baseurl:"
   This is a blog post for Project 1 Mobile Development.
-baseurl: "/soften-portfolio-tawaab1" 
+baseurl: "/project-1-portfolio" 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
