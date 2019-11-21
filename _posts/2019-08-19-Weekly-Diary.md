@@ -20,3 +20,15 @@ author: "Aisea Tawake"
 ## Week Seven and Eight
 
 These 2 weeks focuses further on what the client wanted to see the past week which was having a database implemented. Additionally to creating a database, I also implemented an additional screen which was a login screen, and a create a user screen to help fetch and store data in the database.
+
+## Week Nine and Ten
+
+The 9th week I am working on improving the structure of the login screen, and further working on the local database to work with the login. The 10th week I had started reserching bluetooth packages that would help with connecting the device via the react native project.
+
+## Week Eleven and Twelve
+
+These two week I mainly focused on trying to finish implementation of the database User tables data so the login screen can fetch that data for authentication. I am also splitting focus on the bluetooth capabilities of the app, but I am unsure I will be able to complete it this sprint.
+
+## Week Thirteen and Fourteen
+
+These two weeks are dedicated to completing my portfolio of the project, and sorting out any final features that I need to implement into the project. I will also start thinking about my presentation of the project done so far.
