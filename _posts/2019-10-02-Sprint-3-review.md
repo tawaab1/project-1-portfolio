@@ -16,11 +16,18 @@ author: "Aisea Tawake"
 
 The client wanted to change one main function of the app (i.e the Dueling players, player versus player). The previous functionality users would connect together with two different devices to be able to 'duel' with each other. But the client wanted to change this function to having, two users using one device and having both users connect their beyblades to the same device aswell.
 
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/20191120_160415.jpg "Brainstorm")
+
+
 ### Principle 4
 
 Rather than having to waiting to meet with the client during the school period I was also able to grab the client during my study break for constant updates. The client also takes a long business trip from time to time, so to stay in constant contact I email/text the client whenever its appropriate.
 
+### Messaging the client
 
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191121-153219_Messages.jpg "Messages")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191121-153232_Messages.jpg "Messages")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191121-153259_Messages.jpg "Messages")
 
 ## Reflection
 
