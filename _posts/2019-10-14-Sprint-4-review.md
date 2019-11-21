@@ -13,6 +13,11 @@ author: "Aisea Tawake"
 ###Principle 9
 The focus of this sprint is to create a robust database that will be able to store player's information such as usernames, passwords, achievements, wins, losses, etc. With this feature implemented, I will be able to implement a login, creating a profile for a user and viewing a users profile and data associated with that user.
 
+### This routes screens shows the app requesting data via the console and projecting on a web app
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/14.png "Routes")
+### This is the test database which will be used to test the login authentication
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/15.png "Routes")
+
 ###Principle 1
 I have shown the client an early development app which shows the Login, Solo, Duel and Profile screens to show the benefits of using a server database than being not.
 
@@ -26,7 +31,8 @@ I have shown the client an early development app which shows the Login, Solo, Du
 ### What I need to approve on?
 
 * Constant commits of project material to the repositiory.
-
+* Writing up new issues that come up as the client requests new features to be implemented
+* Updating the kanban board to suit the Sprints and updating the portfolio daily.
 
 ### What lesson did I learn?
 
@@ -35,4 +41,5 @@ I have shown the client an early development app which shows the Login, Solo, Du
 ### What barriers did you encounter?
 
 * Trying to tap into old knowledge about routes, sessions and databases.
+* Implementing new major features and screens to the project to suit the customers request.
 

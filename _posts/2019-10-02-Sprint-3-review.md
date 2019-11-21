@@ -8,7 +8,7 @@ author: "Aisea Tawake"
 ## Goals
 
 * Working with the constant changes that the client wants to see on the app.
-* Focus on skills of researching and creating a database server for the app.
+* Focus on skills of researching about creating a database server for the app.
 
 ## AGILE implementation
 
