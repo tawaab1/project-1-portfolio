@@ -20,10 +20,10 @@ The focus of this sprint is to create a robust database that will be able to sto
 
 ### Principle 1
 I have shown the client an early development app which shows the Login, Solo, Duel and Profile screens to show the benefits of using a server database than being not.
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191122-004643_Expo.jpg "Drawer Navigation")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191122-004651_Expo.jpg "Drawer Navigation")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191122-004659_Expo.jpg "Drawer Navigation")
-![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191122-004705_Expo.jpg "Drawer Navigation")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191122-004643_Expo.jpg "Screen")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191122-004651_Expo.jpg "Screen")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191122-004659_Expo.jpg "Screen")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/Screenshot_20191122-004705_Expo.jpg "Screen")
 
 
 
