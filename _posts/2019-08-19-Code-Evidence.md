@@ -5,7 +5,7 @@ date:   2019-11-22 14:00:00 +1300
 author: "Aisea Tawake"
 ---
 
-## Codes submitted on here are codes that I had submitted pushed towards the master branch
+## Codes submitted on here are codes that I had pushed towards the master branch on the repository
 
 ### Route used by the console to read the test database 
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project1Pics/14.png "routes.js")
