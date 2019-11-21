@@ -10,7 +10,7 @@ author: "Aisea Tawake"
 
 ## AGILE implementation
 
-###Principle 9
+### Principle 9
 The focus of this sprint is to create a robust database that will be able to store player's information such as usernames, passwords, achievements, wins, losses, etc. With this feature implemented, I will be able to implement a login, creating a profile for a user and viewing a users profile and data associated with that user.
 
 ### This routes screens shows the app requesting data via the console and projecting on a web app
